@@ -1,0 +1,27 @@
+{
+  "name": "corn",
+  "version": "1.0.0",
+  "description": "Simple fake data generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fth-ship/corn.git"
+  },
+  "keywords": [
+    "fake",
+    "data",
+    "generator"
+  ],
+  "author": "Kaique da Silva <kaique.developer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fth-ship/corn/issues"
+  },
+  "homepage": "https://github.com/fth-ship/corn",
+  "devDependencies": {
+    "should": "^4.4.1"
+  }
+}
